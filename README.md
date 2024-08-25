@@ -1,9 +1,3 @@
-
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-"# carMarket" 
+Hi My name is Si Thu Naung(id-6530287) and I am the only group member.
+This project is about Car Market and in the first page you can see the all the car models and brands available in the website by looking at the stack bar chart.
+At the buttom u can see more specific detail of available car together with pie char distributed with car brands.
